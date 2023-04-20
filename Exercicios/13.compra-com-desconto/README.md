@@ -16,7 +16,7 @@ A Loja do Juninho está com uma super promoção. E na compra de qualquer produt
 
 Lembre-se de cuidar para que o valor monetário tenha sempre duas casas decimais, apenas.
 
-```javascript=
+image.png```javascript=
 //tipo de pagamento (dinheiro, credito, debito, cheque).
 const tipoDePagamento = "credito";
 

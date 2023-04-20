@@ -1,6 +1,5 @@
 const caractere = "E";
 
-
 if (caractere === "A" || caractere === "E" || caractere === "I" || caractere === "O" || caractere === "U") {
     console.log("VOGAL MAIÚSCULA")
 } else if (caractere === "a" || caractere === "e" || caractere === "i" || caractere === "o" || caractere === "u") {
